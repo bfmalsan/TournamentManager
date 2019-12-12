@@ -1,0 +1,20 @@
+This file explains the set up of the pool templates
+Maximum of six teams pools for now
+
+There will be files that describe the different situations of each type of pool.
+The system will assume one team plays every other team in the pool.
+
+Format of no work team:
+Net#,Team1,Team2,-1
+
+Format with a work team:
+Net#,Team1,Team2,Work
+
+Format with a work team and off teams:
+Net#,Team1,Team2,Work,Off1...
+
+Format with off teams but no work team:
+Net#,Team1,Team2,-1,Off1...
+
+If there are multiple nets and teams are playing at the same time. Once multiple nets are disclosed, the
+setup is the same in the files it just have the net number that the game is being played on.

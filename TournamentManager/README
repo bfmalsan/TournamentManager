@@ -1,0 +1,21 @@
+This is a program developed to help manage tournaments, focusing on volleyball.
+Created by: Brian Malsan
+
+All information will be stored in excel spreadsheets for easy visibility
+
+Steps:
+1. Create new tournament
+    a. eventually can open existing tournament
+2. Get tournament information
+    a. name, place, start time, format, accepted divisions
+    b. # of teams, # of players/team, # of nets
+3. Gather the teams and players
+4. Test if all teams are cleared to play
+    i.e waivers signed and team fee is paid
+5. Create pools
+    a. Can be either seeded of random
+6. Keep track of teams wins, losses and point differential
+    a. keep track of head to head
+7. Determine playoffs
+8. Set up bracket
+9. Finish tournament
